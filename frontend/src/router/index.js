@@ -23,6 +23,12 @@ const routes = [
     name: 'MonComposant',
     component: () => import('../components/MonComposant.vue'),
   },
+  {
+    path: '/youpi',
+    name: 'Youpi',
+    component: () => import('../components/Youpi.vue'),
+  },
+
 ];
 
 const router = new VueRouter({
