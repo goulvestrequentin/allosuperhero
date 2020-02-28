@@ -1,13 +1,13 @@
+
 <template>
-<div>
-youpi
-</div>
+  <div>
+    youpi
+  </div>
 </template>
 <script>
 export default {
-  name: '',
+  name: ""
 };
-
 </script>
 <style>
 </style>
