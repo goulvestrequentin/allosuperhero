@@ -4,10 +4,12 @@
     youpi
   </div>
 </template>
+
 <script>
 export default {
-  name: ""
+  name: 'Youpi',
 };
 </script>
+
 <style>
 </style>
